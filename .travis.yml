@@ -11,3 +11,8 @@ before_script:
 
 script:
   - vendor/bin/phpunit
+
+
+
+notifications:
+  slack: 'anis.dhouieb:xoxp-439967519159-438927837746-648813557489-7db5e5fae240064026183beb83bb5e3e'
