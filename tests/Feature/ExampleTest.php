@@ -22,11 +22,7 @@ class ExampleTest extends TestCase
     }
 
 
-    public function test_if_it_returns_json() {
-
-      $response = $this->json('GET', '/api/articles') ;
-      $response->assertStatus(200);
-    }
+  
 
 
 
