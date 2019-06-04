@@ -15,5 +15,6 @@ script:
 
 
 notifications:
-  rooms:
-    - 3wa-tn-soir-2018:NCO673mv96q0nRHiTfYMsc8r#mytravis
+  slack:
+    rooms:
+      - 3wa-tn-soir-2018:NCO673mv96q0nRHiTfYMsc8r#mytravis
