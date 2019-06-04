@@ -13,7 +13,7 @@ script:
   - vendor/bin/phpunit
 
 
-# removing notifications so that slack key is not exposed in public repository
+# removing notifications so that slack key is not exposed in public repositorys
 # notifications:
 #   slack:
 #     rooms:
