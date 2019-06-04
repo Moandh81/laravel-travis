@@ -15,4 +15,5 @@ script:
 
 
 notifications:
-  slack: 'anis.dhouieb:xoxp-439967519159-438927837746-648813557489-7db5e5fae240064026183beb83bb5e3e'
+  rooms:
+    - 3wa-tn-soir-2018:NCO673mv96q0nRHiTfYMsc8r#mytravis
