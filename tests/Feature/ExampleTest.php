@@ -24,7 +24,7 @@ class ExampleTest extends TestCase
 public funtion testBasicExample() {
   $data = [10,20, 30];
   $result = array_sum($data) ;
-  $this->assertEquals(60, $result) 
+  $this->assertEquals(60, $result); 
 }
 
 
