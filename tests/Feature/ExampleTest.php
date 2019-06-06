@@ -21,10 +21,10 @@ class ExampleTest extends TestCase
     // //     $response->assertStatus(200);
     // // }
 
-public funtion testBasicExample() {
+public function testBasicExample() {
   $data = [10,20, 30];
   $result = array_sum($data) ;
-  $this->assertEquals(60, $result); 
+  $this->assertEquals(60, $result);
 }
 
 
